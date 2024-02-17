@@ -94,6 +94,10 @@ Para este ejercicio podemos hacer uso de 5 casos de equivalencia.
 
 # REALIZAR PRUEBAS
 
+# AUTORES
+	1)Juan Daniel Murcia
+ 	2)Mateo Sebastian Forero
+
 
 
 
