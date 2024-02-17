@@ -94,6 +94,9 @@ Para este ejercicio podemos hacer uso de 5 casos de equivalencia.
 
 # REALIZAR PRUEBAS
 
+[EjercicioClasesEquivalencia.pdf](https://github.com/murcia0421/CVDS-ClasesEquivalencia/files/14319500/EjercicioClasesEquivalencia.pdf)
+
+
 # AUTORES
 	1)Juan Daniel Murcia
  	2)Mateo Sebastian Forero
