@@ -83,7 +83,7 @@ Para compliar el proyecto en maven usamos el comando "mvn compile" si queremos e
 
 Su diferencia es que mvn test compila y ejecuta el proyecto con sus respectivas pruebas, en cambio mvn package compila el programa, pasa las pruebas y si estas son validas, el programa empaqueta el proyecto en un archivo .jar
 
-#FINALIZAR EL EJERCICIO
+# FINALIZAR EL EJERCICIO
 
 Para este ejercicio podemos hacer uso de 5 casos de equivalencia.
 	1)En caso que la persona no este viva
@@ -92,7 +92,7 @@ Para este ejercicio podemos hacer uso de 5 casos de equivalencia.
 	4)En caso de que el numero de la cedula este duplicado
 	5)En caso de que la informacion sea correcta
 
-#REALIZAR PRUEBAS
+# REALIZAR PRUEBAS
 
 
 
