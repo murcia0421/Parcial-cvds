@@ -49,7 +49,7 @@
     CPU: Cualquier CPU moderna (se recomienda una CPU multi-core)
     Espacio en disco: 3.5 GB en un SSD con al menos 5 GB de espacio libre
     
-#Funcionamiento
+# Funcionamiento
 **CREAR UN PROYECTO CON MAVEN**
 En el directorio de trabajo ejecutar el comando necesario para crear/generar un proyecto maven basado en un arquetipo:
 
