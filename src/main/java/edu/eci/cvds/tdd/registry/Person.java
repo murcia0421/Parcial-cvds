@@ -42,6 +42,7 @@ public class Person {
     public Person(String name, int id, int age, Gender gender, boolean alive) {
         this.name = name;
         this.id = id;
+        setAge(age);
         this.age = age;
         this.gender = gender;
         this.alive = alive;
@@ -104,8 +105,12 @@ public class Person {
      * @param age the age to set
      */
     public void setAge(int age) {
+        if (age < 0) {
+            throw new IllegalArgumentException("La edad no puede ser negativa");
+        }
         this.age = age;
     }
+
     /**
      * Sets the person's gender
      *
@@ -128,4 +133,13 @@ public class Person {
     @Override
     public String toString() {
         return "Person [name=" + name + ", id=" + id + ", age=" + age + ", gender=" + gender + ", alive=" + alive + "]"; }
+
+    public boolean isMinor() {
+        return age <18;
+    }
+
+
+    /*public boolean isMinor() {
+        return false;
+    }*/
 }
